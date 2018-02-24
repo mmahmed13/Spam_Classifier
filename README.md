@@ -1,6 +1,6 @@
 # Spam_Classifier
 
-Many email services today provide spam filters that are able to classify emails into spam and non-spam email with high accuracy. This project uses SVMs to build a spam filter.
+Many email services today provide spam filters that are able to classify emails into spam and non-spam email with high accuracy. This project uses SVMs to build a spam filter. Run <b> spam.m </b> to see step by step working of this classifier.
 
 It first normalizes emails in the dataset by lower-casing, stripping HTML tags, normalizing URLs, numbers, email address and word stemming (reducing words to their stemmed form e.g "discount", "discounts", "discounted" and "discounting" are all replaced with "discount").
 
